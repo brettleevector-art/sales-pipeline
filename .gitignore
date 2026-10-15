@@ -1,0 +1,11 @@
+# Generated outputs - never commit these
+data/processed/
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets
+.env
