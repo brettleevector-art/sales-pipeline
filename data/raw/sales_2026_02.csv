@@ -1,0 +1,6 @@
+order_id,order_date,customer,product,quantity,unit_price,region
+1011,2026-02-02,Asha,Monitor,2,9800,South
+1012,2026-02-05,Neha,Laptop,1,55000,North
+1013,2026-02-09,Rahul,Keyboard,1,1200,North
+1014,2026-02-14,Fatima,Headphones,3,2500,East
+1015,2026-02-20,Vikram,Mouse,5,450,West
